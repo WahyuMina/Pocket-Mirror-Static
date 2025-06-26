@@ -1,5 +1,6 @@
-![POCKET MIRROR](/image/logoEN.png)
-
+<p align="center">
+  <img src="/image/logoEN.png" alt="Pocket Mirror Logo" width="500">
+</p>
 # Fan Page - Pocket Mirror
 
 ### A. Introduction
